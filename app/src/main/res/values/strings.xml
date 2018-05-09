@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assistant Students Version</string>
+    <string name="title_activity_main2">classesActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="logo">LOGO</string>
+</resources>
